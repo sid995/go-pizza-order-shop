@@ -13,13 +13,13 @@ var (
 		"Margherita",
 		"Pepperoni",
 		"Hawaiian",
-		"Veggie",
+		"Vegetarian",
 		"BBQ Chicken",
 		"Meat Lovers",
 		"Supreme",
 		"Four Cheese",
-		"Mushroom",
-		"Spinach Alfredo",
+		"Truffle Mushroom",
+		"Buffalo Chicken",
 	}
 
 	PizzaSizes = []string{"Small", "Medium", "Large", "X-Large"}
